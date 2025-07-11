@@ -62,7 +62,7 @@ This is the mockup you should follow:
 
 
 ## Login Page Mockup
-![Login Page Mockup](./Login-mockup.png)
+![Login Page Mockup](./Login-mockup-a.png)
 ## User Page Mockup
 ![User Page Mockup](./User-mockup.png)
 
