@@ -35,7 +35,7 @@ You will implement:
 - User login endpoint
 - CRUD endpoints for users (GET, POST, PUT, DELETE)
 - Basic token-based auth (JWT or mock token)
-- User **MongoDB** database for simulating data persistence.
+- Use **MongoDB** database for simulating data persistence.
 
 ---
 
