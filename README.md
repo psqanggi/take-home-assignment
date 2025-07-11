@@ -10,7 +10,7 @@ The goal is to assess your ability to:
 - Handle basic authentication and data flow
 - Handle basic create/update/delete user 
 - Organize clean, scalable code with proper structure
-- Docs each function
+- Docs each function / method
 - Docs project
 
 ---
