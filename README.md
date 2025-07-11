@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-You are required to build a **frontend application** using **Vue 2** based on mockups we provide, and connect it to a custom-built **REST API backend** using **Express.js** width  **MongoDB Databse**
+You are required to build a **frontend application** using **Vue 2** based on mockups we provide, and connect it to a custom-built **REST API backend** using **Express.js** width  **MongoDB Database**
 
 The goal is to assess your ability to:
 - Translate UI mockups into responsive Vue 2 components
@@ -10,6 +10,8 @@ The goal is to assess your ability to:
 - Handle basic authentication and data flow
 - Handle basic create/update/delete user 
 - Organize clean, scalable code with proper structure
+- Docs each function
+- Docs project
 
 ---
 
